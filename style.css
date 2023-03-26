@@ -32,6 +32,7 @@ textarea{
     border:2px solid #113c79;
     padding: 5px;
     outline:none;
+    resize: none;
 }
 
 #tags{
